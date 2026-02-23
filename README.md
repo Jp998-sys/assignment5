@@ -18,7 +18,17 @@ pip install -r requirements.txt
 
 python main.py
 
+##  Running Tests
 
+pytest
+
+## Example Usage
+
+Enter command: add
+First number: 2
+Second number: 3
+
+2 + 3 = 5
 
 # Add it to github
 
@@ -26,7 +36,7 @@ After finishing the work:
 
 ```bash
 git add .
-git commit -m "Complete Module 4"
+git commit -m "Complete Module 5"
 git push origin main
 ```
 
