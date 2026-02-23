@@ -24,8 +24,8 @@ pytest
 
 ## Example Usage
 
-Enter command: add
-First number: 2
+Enter command: add  
+First number: 2  
 Second number: 3
 
 2 + 3 = 5
